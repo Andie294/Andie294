@@ -7,8 +7,8 @@ Currently I'm entering in the technology field through a specialized course in F
 <p align="center">
 <br>
 <p align="center">  
-<img height= "150em" src="https://github-readme-stats.vercel.app/api?username=Andie294&show_icons=true&theme=onedark"/> 
-<img height= "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andie294&layout=compact&langs_count=7&theme=onedark"/> </p>
+<img height= "150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andie294&show_icons=true&include_all_commits=true&count_private=true&theme=onedark"/> 
+<img height= "150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andie294&theme=onedark"/> </p>
 
 <br>
 <br>
